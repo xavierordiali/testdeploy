@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="projet-intragtion-meteo:war exploded">
+    <output-path>$PROJECT_DIR$/projet-intragtion-meteo/target/continu-b3</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="projet-intragtion-meteo" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/projet-intragtion-meteo/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="projet-intragtion-meteo/web/Web" />
+    </root>
+  </artifact>
+</component>
